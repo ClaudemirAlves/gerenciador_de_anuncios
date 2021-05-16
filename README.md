@@ -16,7 +16,7 @@ Todas as funções são bastante autoexplicativas, mas, resumidamente:
 - "calculator_shares" recebe o número máximo de cliques e devolve o número máximo de compartilhamentos para aquele anúncio, considerando parâmetros pré estabelecidos fora deste programa.
 - "consult_ad" recebe a lista de anúncios "ads" e possibilita a consulta dos anúncios previamente cadastrados, utilizando-se do nome do cliente ou do intervalo de tempo, em dias, do anúncio para a busca. 
 
-#INSTRUÇÕES PARA OS TESTES:
+INSTRUÇÕES PARA OS TESTES:
 Para executar os testes, utilize o Prompt de Comando.
 É necessário ter o programa "pytest" instalado em sua máquina.
 Ao abrir o Prompt, busque pela pasta na qual o programa "Gerenciador_de_Anúncios.py" está localizado.
